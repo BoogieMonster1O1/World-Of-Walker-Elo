@@ -12,6 +12,6 @@ This implementation practically works with any kind of entries, but I decided to
 ## Instructions
 - Clone this repo / Download a zip and extract it
 - Open a terminal / command prompt window in the repo's folder
-- Run `python3 .` (or `python .` if it is set to python 3)
+- Run `python3 .` (or `python .` if that is set to python 3)
 
 Created by Walker #81916
