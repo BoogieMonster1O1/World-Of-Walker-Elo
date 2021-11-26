@@ -7,7 +7,16 @@ songs = [
 	"Alone, Pt. II",
 	"Paradise",
 	"Out Of Love",
-	"Red Nexus Rising (Interlude)"
+	"Red Nexus Rising (Interlude)",
+	"Sorry (feat. ISÁK)",
+	"Fake A Smile (feat. salem ilese)",
+	"On My Way",
+	"World We Used To Know",
+	"Drone Wars (Instrumental)",
+	"Heading Home",
+	"OK",
+	"Hummell Gets The Rockets (Alan Walker Remix)",
+	"Not You"
 ]
 
 class entry:
